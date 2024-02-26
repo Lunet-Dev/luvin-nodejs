@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const GET_PAGE = \"PAGE/GET_PAGE\";\nexport const GET_PAGE_SUCCESS = \"PAGE/GET_PAGE_SUCCESS\";\nexport const GET_PAGE_ERROR = \"PAGE/GET_PAGE_ERROR\";\nexport const RESET_STATE = \"PAGE/RESET_STATE\";","map":null,"metadata":{},"sourceType":"module"}

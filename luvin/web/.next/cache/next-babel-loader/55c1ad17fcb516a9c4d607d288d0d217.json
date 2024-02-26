@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const GET_PRODUCT = \"PRODUCT/GET_PRODUCT\";\nexport const GET_PRODUCT_SUCCESS = \"PRODUCT/GET_PRODUCT_SUCCESS\";\nexport const GET_PRODUCT_ERROR = \"PRODUCT/GET_PRODUCT_ERROR\";\nexport const RESET_STATE = \"PRODUCT/RESET_STATE\";","map":null,"metadata":{},"sourceType":"module"}

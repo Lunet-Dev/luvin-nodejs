@@ -1,0 +1,5 @@
+export const GET_NEWS = "NEWS/GET_NEWS";
+export const GET_NEWS_SUCCESS = "NEWS/GET_NEWS_SUCCESS";
+export const GET_NEWS_ERROR = "NEWS/GET_NEWS_ERROR";
+
+export const RESET_STATE = "NEWS/RESET_STATE";

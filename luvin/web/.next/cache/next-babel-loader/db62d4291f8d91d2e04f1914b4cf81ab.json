@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const SEARCH = \"SEARCH/SEARCH\";\nexport const SEARCH_SUCCESS = \"SEARCH/SEARCH_SUCCESS\";\nexport const SEARCH_ERROR = \"SEARCH/SEARCH_ERROR\";\nexport const RESET_STATE = \"SEARCH/RESET_STATE\";","map":null,"metadata":{},"sourceType":"module"}

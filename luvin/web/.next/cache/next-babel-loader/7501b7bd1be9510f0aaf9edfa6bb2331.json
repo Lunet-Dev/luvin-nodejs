@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var GET_PAGE = \"PAGE/GET_PAGE\";\nexport var GET_PAGE_SUCCESS = \"PAGE/GET_PAGE_SUCCESS\";\nexport var GET_PAGE_ERROR = \"PAGE/GET_PAGE_ERROR\";\nexport var RESET_STATE = \"PAGE/RESET_STATE\";","map":null,"metadata":{},"sourceType":"module"}

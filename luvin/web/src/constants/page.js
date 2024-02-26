@@ -1,0 +1,5 @@
+export const GET_PAGE = "PAGE/GET_PAGE";
+export const GET_PAGE_SUCCESS = "PAGE/GET_PAGE_SUCCESS";
+export const GET_PAGE_ERROR = "PAGE/GET_PAGE_ERROR";
+
+export const RESET_STATE = "PAGE/RESET_STATE";

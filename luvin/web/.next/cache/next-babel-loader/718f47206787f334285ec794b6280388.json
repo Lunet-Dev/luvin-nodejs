@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const GET_CATEGORIES = \"CATEGORIES/GET_CATEGORIES\";\nexport const GET_CATEGORIES_SUCCESS = \"CATEGORIES/GET_CATEGORIES_SUCCESS\";\nexport const GET_CATEGORIES_ERROR = \"CATEGORIES/GET_CATEGORIES_ERROR\";","map":null,"metadata":{},"sourceType":"module"}

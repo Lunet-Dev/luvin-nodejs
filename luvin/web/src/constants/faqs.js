@@ -1,0 +1,5 @@
+export const GET_FAQS = "FAQS/GET_FAQS";
+export const GET_FAQS_SUCCESS = "FAQS/GET_FAQS_SUCCESS";
+export const GET_FAQS_ERROR = "FAQS/GET_FAQS_ERROR";
+
+export const RESET_STATE = "FAQS/RESET_STATE";

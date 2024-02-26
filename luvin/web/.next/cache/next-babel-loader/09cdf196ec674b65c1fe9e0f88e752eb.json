@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const CREATE_ORDER = \"ORDER/CREATE_ORDER\";\nexport const CREATE_ORDER_SUCCESS = \"ORDER/CREATE_ORDER_SUCCESS\";\nexport const CREATE_ORDER_ERROR = \"ORDER/CREATE_ORDER_ERROR\";","map":null,"metadata":{},"sourceType":"module"}

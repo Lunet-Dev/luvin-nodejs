@@ -1,0 +1,147 @@
+.elementor-17 .elementor-element.elementor-element-7a35563 {
+  padding: 50px 0px 50px 0px;
+}
+.elementor-17 .elementor-element.elementor-element-956c3fb {
+  text-align: center;
+}
+.elementor-17
+  .elementor-element.elementor-element-956c3fb
+  .elementor-heading-title {
+  color: #902535;
+  font-family: "UTM Roman Classic", Sans-serif;
+}
+.elementor-17
+  .elementor-element.elementor-element-11ea24c:not(.elementor-motion-effects-element-type-background),
+.elementor-17
+  .elementor-element.elementor-element-11ea24c
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: #f2f2f2;
+}
+.elementor-17 .elementor-element.elementor-element-11ea24c {
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+  padding: 30px 0px 30px 0px;
+}
+.elementor-17
+  .elementor-element.elementor-element-11ea24c
+  > .elementor-background-overlay {
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-17 .elementor-element.elementor-element-3ee5f8d {
+  text-align: center;
+}
+.elementor-17
+  .elementor-element.elementor-element-3ee5f8d
+  .elementor-heading-title {
+  color: #902535;
+  font-family: "UTM Roman Classic", Sans-serif;
+}
+.elementor-17 .elementor-element.elementor-element-d2ad61b {
+  padding: 30px 0px 30px 0px;
+}
+.elementor-17 .elementor-element.elementor-element-be24d73 {
+  text-align: center;
+}
+.elementor-17
+  .elementor-element.elementor-element-be24d73
+  .elementor-heading-title {
+  color: #902535;
+  font-family: "UTM Roman Classic", Sans-serif;
+}
+.elementor-17 .elementor-element.elementor-element-77fecba {
+  text-align: center;
+}
+.elementor-msie
+  .elementor-17
+  .elementor-element.elementor-element-ff6306c
+  .elementor-portfolio-item {
+  width: calc(100% / 3);
+}
+.elementor-17
+  .elementor-element.elementor-element-ff6306c
+  .elementor-post__thumbnail__link {
+  padding-bottom: calc(0.66 * 100%);
+}
+.elementor-17 .elementor-element.elementor-element-ff6306c:after {
+  content: "0.66";
+  position: absolute;
+  color: transparent;
+}
+.elementor-17 .elementor-element.elementor-element-ff6306c {
+  --grid-column-gap: 20px;
+  --grid-row-gap: 20px;
+}
+.elementor-17
+  .elementor-element.elementor-element-7ddb050:not(.elementor-motion-effects-element-type-background),
+.elementor-17
+  .elementor-element.elementor-element-7ddb050
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: #f2f2f2;
+}
+.elementor-17 .elementor-element.elementor-element-7ddb050 {
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+  padding: 30px 0px 30px 0px;
+}
+.elementor-17
+  .elementor-element.elementor-element-7ddb050
+  > .elementor-background-overlay {
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-17 .elementor-element.elementor-element-b7f4d7d {
+  text-align: center;
+}
+.elementor-17
+  .elementor-element.elementor-element-b7f4d7d
+  .elementor-heading-title {
+  color: #902535;
+  font-family: "UTM Roman Classic", Sans-serif;
+}
+.elementor-17 .elementor-element.elementor-element-7a321f9 {
+  text-align: center;
+}
+:root {
+  --page-title-display: none;
+}
+@media (max-width: 1024px) {
+  .elementor-msie
+    .elementor-17
+    .elementor-element.elementor-element-ff6306c
+    .elementor-portfolio-item {
+    width: calc(100% / 2);
+  }
+}
+@media (max-width: 767px) {
+  .elementor-msie
+    .elementor-17
+    .elementor-element.elementor-element-ff6306c
+    .elementor-portfolio-item {
+    width: calc(100% / 1);
+  }
+} /* Start custom CSS for text-editor, class: .elementor-element-2672d10 */
+.aboutus-text {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+} /* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-77fecba */
+.chungnhan-text {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+} /* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-7a321f9 */
+.chungnhan-text {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+} /* End custom CSS */
+/* Start Custom Fonts CSS */
+@font-face {
+  font-family: "UTM Roman Classic";
+  font-style: normal;
+  font-weight: normal;
+  font-display: auto;
+  src: url("../../fonts/UTM-Roman-Classic.ttf") format("truetype");
+}
+/* End Custom Fonts CSS */

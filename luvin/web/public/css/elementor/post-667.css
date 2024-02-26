@@ -1,0 +1,64 @@
+.elementor-667 .elementor-element.elementor-element-3cef354 {
+  padding: 30px 0px 30px 0px;
+}
+.elementor-667
+  .elementor-element.elementor-element-61ca339:not(.elementor-motion-effects-element-type-background)
+  > .elementor-column-wrap,
+.elementor-667
+  .elementor-element.elementor-element-61ca339
+  > .elementor-column-wrap
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: #ffffff;
+}
+.elementor-667
+  .elementor-element.elementor-element-61ca339
+  > .elementor-element-populated {
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  border-color: #dfdfdf;
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-667
+  .elementor-element.elementor-element-61ca339
+  > .elementor-element-populated
+  > .elementor-background-overlay {
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-667
+  .elementor-element.elementor-element-605425c
+  .elementor-heading-title {
+  font-size: 32px;
+  line-height: 1.4em;
+}
+.woocommerce
+  .elementor-667
+  .elementor-element.elementor-element-659290a
+  .star-rating {
+  color: #cc3366;
+}
+.woocommerce
+  .elementor-667
+  .elementor-element.elementor-element-673c794
+  .price
+  ins {
+  text-decoration: none;
+}
+.elementor-667 .elementor-element.elementor-element-6912e3d .cart button {
+  transition: all 0.2s;
+}
+.elementor-667 .elementor-element.elementor-element-6912e3d .quantity .qty {
+  transition: all 0.2s;
+}
+body.elementor-page-667:not(.elementor-motion-effects-element-type-background),
+body.elementor-page-667
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: #f2f2f2;
+} /* Start custom CSS */
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt {
+  background-color: #902535;
+} /* End custom CSS */

@@ -1,0 +1,46 @@
+.elementor-575 .elementor-element.elementor-element-7e33cd2 {
+  text-align: center;
+}
+.elementor-575 .elementor-element.elementor-element-2fb750c {
+  text-align: center;
+}
+.elementor-575 .elementor-element.elementor-element-ff972bc {
+  text-align: center;
+}
+.elementor-575
+  .elementor-element.elementor-element-ff972bc
+  .elementor-heading-title {
+  font-size: 16px;
+}
+.elementor-575 .elementor-element.elementor-element-f5a567e .elementor-button {
+  text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+  fill: #ffffff;
+  color: #ffffff;
+  background-color: #902535;
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  border-color: #902535;
+}
+.elementor-575 .elementor-element.elementor-element-ecf7768 .elementor-button {
+  text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+  fill: #111111;
+  color: #111111;
+  background-color: #ffffff;
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  border-color: #dfdfdf;
+}
+#elementor-popup-modal-575 .dialog-message {
+  width: 400px;
+  height: auto;
+}
+#elementor-popup-modal-575 {
+  justify-content: center;
+  align-items: center;
+  pointer-events: all;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+#elementor-popup-modal-575 .dialog-widget-content {
+  animation-duration: 1.2s;
+  box-shadow: 2px 8px 23px 3px rgba(0, 0, 0, 0.2);
+}

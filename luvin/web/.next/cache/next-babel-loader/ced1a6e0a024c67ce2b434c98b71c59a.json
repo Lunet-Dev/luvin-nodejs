@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React, { useEffect } from \"react\";\n\nconst Content = ({\n  children,\n  className\n}) => {\n  useEffect(() => {\n    const targetElm = document.body;\n    targetElm.className = className || \"\";\n  }, []);\n  return children;\n};\n\nexport default Content;","map":null,"metadata":{},"sourceType":"module"}

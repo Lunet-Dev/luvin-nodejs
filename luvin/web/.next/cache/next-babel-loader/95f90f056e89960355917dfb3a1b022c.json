@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const GET_CONFIGS = \"TASTY/GET_CONFIGS\";\nexport const GET_CONFIGS_SUCCESS = \"TASTY/GET_CONFIGS_SUCCESS\";\nexport const GET_CONFIGS_ERROR = \"TASTY/GET_CONFIGS_ERROR\";","map":null,"metadata":{},"sourceType":"module"}

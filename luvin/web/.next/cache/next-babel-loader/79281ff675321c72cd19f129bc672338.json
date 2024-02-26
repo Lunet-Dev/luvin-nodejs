@@ -1,0 +1,1 @@
+{"ast":null,"code":"import * as TYPES from \"../constants/faq\";\nexport const getFaq = faqSlug => ({\n  type: TYPES.GET_FAQ,\n  faqSlug\n});\nexport const getFaqSuccess = post => ({\n  type: TYPES.GET_FAQ_SUCCESS,\n  post\n});\nexport const getFaqError = errorMessage => ({\n  type: TYPES.GET_FAQ_ERROR,\n  errorMessage\n});","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const GET_VIDEOS = \"VIDEOS/GET_VIDEOS\";\nexport const GET_VIDEOS_SUCCESS = \"VIDEOS/GET_VIDEOS_SUCCESS\";\nexport const GET_VIDEOS_ERROR = \"VIDEOS/GET_VIDEOS_ERROR\";","map":null,"metadata":{},"sourceType":"module"}

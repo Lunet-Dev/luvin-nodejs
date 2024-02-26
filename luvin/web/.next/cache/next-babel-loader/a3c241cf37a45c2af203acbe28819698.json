@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var SEARCH = \"SEARCH/SEARCH\";\nexport var SEARCH_SUCCESS = \"SEARCH/SEARCH_SUCCESS\";\nexport var SEARCH_ERROR = \"SEARCH/SEARCH_ERROR\";\nexport var RESET_STATE = \"SEARCH/RESET_STATE\";","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var GET_PRODUCTS_SALE = \"SALES/GET_PRODUCTS_SALE\";\nexport var GET_PRODUCTS_SALE_SUCCESS = \"SALES/GET_PRODUCTS_SALE_SUCCESS\";\nexport var GET_PRODUCTS_SALE_ERROR = \"SALES/GET_PRODUCTS_SALE_ERROR\";\nexport var RESET_STATE = \"SALES/RESET_STATE\";","map":null,"metadata":{},"sourceType":"module"}

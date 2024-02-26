@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const GET_FAQ = \"FAQ/GET_FAQ\";\nexport const GET_FAQ_SUCCESS = \"FAQ/GET_FAQ_SUCCESS\";\nexport const GET_FAQ_ERROR = \"FAQ/GET_FAQ_ERROR\";\nexport const RESET_STATE = \"FAQ/RESET_STATE\";","map":null,"metadata":{},"sourceType":"module"}

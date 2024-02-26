@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var GET_NEWS = \"NEWS/GET_NEWS\";\nexport var GET_NEWS_SUCCESS = \"NEWS/GET_NEWS_SUCCESS\";\nexport var GET_NEWS_ERROR = \"NEWS/GET_NEWS_ERROR\";","map":null,"metadata":{},"sourceType":"module"}

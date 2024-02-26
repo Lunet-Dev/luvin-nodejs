@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const GET_CONFIGS = \"ABOUTUS/GET_CONFIGS\";\nexport const GET_CONFIGS_SUCCESS = \"ABOUTUS/GET_CONFIGS_SUCCESS\";\nexport const GET_CONFIGS_ERROR = \"ABOUTUS/GET_CONFIGS_ERROR\";","map":null,"metadata":{},"sourceType":"module"}

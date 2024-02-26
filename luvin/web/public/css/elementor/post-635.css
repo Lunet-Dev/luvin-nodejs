@@ -1,0 +1,147 @@
+.elementor-635
+  .elementor-element.elementor-element-1b5a856
+  > .elementor-container {
+  max-width: 900px;
+}
+.elementor-635
+  .elementor-element.elementor-element-1b5a856
+  > .elementor-container
+  > .elementor-row
+  > .elementor-column
+  > .elementor-column-wrap
+  > .elementor-widget-wrap {
+  align-content: center;
+  align-items: center;
+}
+.elementor-635
+  .elementor-element.elementor-element-b5683ab
+  .eael-entry-thumbnail {
+  height: 350px;
+}
+.elementor-635
+  .elementor-element.elementor-element-b5683ab
+  .eael-grid-post-holder {
+  background-color: #ffffff00;
+}
+.elementor-635
+  .elementor-element.elementor-element-b5683ab
+  .eael-entry-overlay {
+  background-color: rgba(0, 0, 0, 0.75);
+}
+.elementor-635
+  .elementor-element.elementor-element-b5683ab
+  .eael-post-elements-readmore-btn {
+  color: #ffffff;
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  border-color: #dfdfdf;
+  border-radius: 3px 3px 3px 3px;
+  padding: 5px 10px 5px 10px;
+}
+.elementor-635 .elementor-element.elementor-element-b5683ab .eael-entry-title,
+.elementor-635
+  .elementor-element.elementor-element-b5683ab
+  .eael-entry-title
+  a {
+  color: #ffffff;
+}
+.elementor-635
+  .elementor-element.elementor-element-b5683ab
+  .eael-entry-title:hover,
+.elementor-635
+  .elementor-element.elementor-element-b5683ab
+  .eael-entry-title
+  a:hover {
+  color: #f2f2f2;
+}
+.elementor-635 .elementor-element.elementor-element-b5683ab .eael-entry-title {
+  text-align: left;
+  font-family: "UTM Roman Classic", Sans-serif;
+  font-weight: 400;
+  margin: 12px 15px 15px 30px;
+}
+.elementor-635
+  .elementor-element.elementor-element-b5683ab
+  .swiper-container-wrap
+  .swiper-button-next,
+.elementor-635
+  .elementor-element.elementor-element-b5683ab
+  .swiper-container-wrap
+  .swiper-button-prev {
+  font-size: 22px;
+  color: #dfdfdf;
+}
+#elementor-popup-modal-635 .dialog-message {
+  width: 100vw;
+  height: 100px;
+  align-items: center;
+  padding: 10px 10px 10px 10px;
+}
+#elementor-popup-modal-635 {
+  justify-content: center;
+  align-items: flex-end;
+}
+#elementor-popup-modal-635 .dialog-close-button {
+  display: block;
+  font-size: 18px;
+}
+#elementor-popup-modal-635 .dialog-widget-content {
+  animation-duration: 1.2s;
+  background-color: transparent;
+  background-image: linear-gradient(250deg, #951629 7%, #62111d 68%);
+  box-shadow: 2px 8px 23px 3px rgba(0, 0, 0, 0.2);
+}
+#elementor-popup-modal-635 .dialog-close-button i {
+  color: #ffffff;
+}
+@media (max-width: 1024px) {
+  #elementor-popup-modal-635 .dialog-message {
+    height: 141px;
+  }
+  #elementor-popup-modal-635 .dialog-close-button {
+    top: 7px;
+  }
+}
+@media (max-width: 767px) {
+  #elementor-popup-modal-635 .dialog-message {
+    height: 215px;
+  }
+  #elementor-popup-modal-635 .dialog-close-button {
+    top: 15px;
+  }
+} /* Start custom CSS */
+.eventbar .eael-grid-post-holder {
+  border: none !important;
+}
+
+.eventbar .eael-grid-post .eael-entry-wrapper,
+.eael-grid-post .eael-entry-footer {
+  display: block;
+  width: 80%;
+  float: left;
+}
+
+.eventbar .eael-post-carousel .eael-entry-content {
+  display: inline-block;
+  width: 20%;
+  float: right;
+  padding: 15px !important;
+  margin-top: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+  .eventbar .eael-grid-post .eael-entry-wrapper,
+  .eael-grid-post .eael-entry-footer {
+    display: block;
+    width: 60%;
+    float: left;
+  }
+
+  .eventbar .eael-post-carousel .eael-entry-content {
+    display: inline-block;
+    width: 40%;
+    float: right;
+    padding: 25px !important;
+    margin-top: 10px;
+  }
+} /* End custom CSS */

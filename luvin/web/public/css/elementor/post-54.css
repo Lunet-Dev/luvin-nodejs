@@ -1,0 +1,45 @@
+.elementor-54 .elementor-element.elementor-element-873f2b2 {
+  padding: 30px 0px 30px 0px;
+}
+.elementor-54 .elementor-element.elementor-element-8d25ff1 {
+  text-align: center;
+}
+.elementor-54 .elementor-element.elementor-element-aae031a {
+  padding: 0px 0px 30px 0px;
+}
+.elementor-54
+  .elementor-element.elementor-element-3f4b994.elementor-wc-products
+  ul.products {
+  grid-column-gap: 20px;
+  grid-row-gap: 40px;
+}
+.elementor-54
+  .elementor-element.elementor-element-3f4b994.elementor-wc-products
+  ul.products
+  li.product
+  span.onsale {
+  display: block;
+}
+:root {
+  --page-title-display: none;
+}
+@media (max-width: 1024px) {
+  .elementor-54
+    .elementor-element.elementor-element-3f4b994.elementor-wc-products
+    ul.products {
+    grid-column-gap: 20px;
+    grid-row-gap: 40px;
+  }
+}
+@media (max-width: 767px) {
+  .elementor-54
+    .elementor-element.elementor-element-3f4b994.elementor-wc-products
+    ul.products {
+    grid-column-gap: 20px;
+    grid-row-gap: 40px;
+  }
+} /* Start custom CSS */
+.uudaibox ul li {
+  border: 1px solid #dfdfdf;
+  padding: 10px !important;
+} /* End custom CSS */
